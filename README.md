@@ -59,3 +59,10 @@ instructions](https://github.com/JuliaLang/IJulia.jl#installation).
 * Slides in [PDF](https://github.com/stevengj/Julia-EuroSciPy14/raw/master/Julia%40EuroSciPy.pdf) (4MB) and [PowerPoint (pptx)](https://github.com/stevengj/Julia-EuroSciPy14/raw/master/Julia%40EuroSciPy.pptx) (3.5MB) formats.
 
 * [IJulia tutorial notebook](http://nbviewer.ipython.org/github/stevengj/Julia-EuroSciPy14/blob/master/Overview.ipynb)
+
+### Support:
+
+If you want the good work to continue please support us on
+
+* [PAYPAL](https://www.paypal.me/ishandutta2007)
+* [BITCOIN ADDRESS: 3LZazKXG18Hxa3LLNAeKYZNtLzCxpv1LyD](https://www.coinbase.com/join/5a8e4a045b02c403bc3a9c0c)
